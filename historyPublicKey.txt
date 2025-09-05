@@ -874,3 +874,7 @@
   874  la clave pública del receptor y luego ejecutar el siguiente comando:
   875  gpg --output doc.gpg --encrypt --recipient 00218123@uca.edu.sv doc
   876  history > historyPublicKey.txt
+  
+  
+  
+  
